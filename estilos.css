@@ -16,3 +16,21 @@ p:hover{
 #botonCambioTitulo{
     background-color: yellow;
 }
+
+.parrafoForm{
+    font-size:20px; color:black
+}
+
+form{
+  position:absolute;
+  top:50px;
+  right:0px;
+  width:55%;
+  height:40%;
+}
+
+
+#foto1{
+    height:150px;
+    width:200px;
+}
